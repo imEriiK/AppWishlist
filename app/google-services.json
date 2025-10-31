@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "362645191013",
+    "project_id": "appwishlist-ad89a",
+    "storage_bucket": "appwishlist-ad89a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:362645191013:android:bf4c5edbde6681703f098c",
+        "android_client_info": {
+          "package_name": "br.unimes.portal.appwishlist"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBr4BvIDpBO7CTm74X7VxwBVpIQwx1LLmo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
